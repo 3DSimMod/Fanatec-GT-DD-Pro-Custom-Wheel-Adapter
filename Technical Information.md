@@ -10,6 +10,9 @@ Recommended paddle shifters (choose an option with mounting plate): https://fr.a
 ### On mounting a dished wheel:
 Since the wheel sits behind the hub, an additional spacer may be required when mounting a dished wheel so the hub doesn’t interfere with it. 
 You may buy such a spacer when purchasing the mod. A set of four spacers is available depending on the wheel’s depth, each with its own set of screws whose length accounts for the spacer’s height.
+<p align="center">
+  <img src="spacer-guide-for-dished-wheels.png" alt="Spacer Guide" width="500">
+</p>
 You may also need standoffs and screws to bring the shifters paddles closer to the wheel. You can purchase standoffs for such application here: https://fr.aliexpress.com/item/1005004063804402.html
 
 
