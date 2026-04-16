@@ -2,10 +2,10 @@
 This adapter kit preserves all functions of the GT DD Pro Steering Wheel except the original paddle shifters. However, you can install third-party paddle shifters (although not necessary for the wheel hub to work). 
 To do so, you will need a paddle shifter kit with a 6x70mm PCD mounting plate. You will also need to select the "shifters grommet" option when purchasing the mod to make space for the shifter cables.
 
-Note: when purchased with the shifters grommet, the kit includes longer screws for mounting the wheel. 
-
 Recommended paddle shifters (choose an option with mounting plate): https://fr.aliexpress.com/item/1005008666478656.html
+A pair of cable connectors (JST 2-pin) is recommended for ease of maintenance: https://fr.aliexpress.com/item/1005007107123815.html
 
+Note: when purchased with the shifters grommet, the kit includes longer screws for mounting the wheel. 
 
 ### On mounting a dished wheel:
 Since the wheel sits behind the hub, an additional spacer may be required when mounting a dished wheel so the hub doesn’t interfere with it. 
