@@ -1,11 +1,7 @@
-<details>
-  <summary><strong>About the Mod:</strong></summary>
-  Complete transformation kit with metal adapter for your Fanatec GT DD Pro Wheel.<br>
-  Allows you to use the OEM Hub with any 6x70 mm aftermarket wheel (with a horn button hole) while preserving all buttons and displays.
-  <br><br>
-  <img src="modded-gt-dd-pro-wheel.png" alt="Spacer Guide" width="300">
-</details>
-
+## About the Mod:
+Complete transformation kit with metal adapter for your Fanatec GT DD Pro Wheel.<br>
+Allows you to use the OEM Hub with any 6x70 mm aftermarket wheel (with a horn button hole) while preserving all buttons and displays.
+<img src="wheel-upgrade.png" width="600">
 
 ### About paddle shifters:
 This adapter kit preserves all functions of the GT DD Pro Steering Wheel except the original paddle shifters. However, you can install third-party paddle shifters (although not necessary for the wheel hub to work). 
@@ -20,7 +16,7 @@ Note: when purchased with the shifters grommet, the kit includes longer screws f
 Since the wheel sits behind the hub, an additional spacer may be required when mounting a dished wheel so the hub doesn’t interfere with it. 
 You may buy such a spacer when purchasing the mod. A set of four spacers is available depending on the wheel’s depth, each with its own set of screws whose length accounts for the spacer’s height.
 <p align="center">
-  <img src="spacer-guide-for-dished-wheels.png" alt="Spacer Guide" width="500">
+  <img src="spacer-guide-for-dished-wheels.png" width="500">
 </p>
 You may also need standoffs and screws to bring the shifters paddles closer to the wheel. You can purchase standoffs for such application here: https://fr.aliexpress.com/item/1005004063804402.html
 
